@@ -25,7 +25,7 @@ function handleClick (e){
 }
 
 img.addEventListener('click', function(){
-    document.getElementById("mensage").innerText = phrases[Math.round(Math.random() * 10)]
+    document.getElementById("fortune-phrase").innerText = phrases[Math.round(Math.random() * 10)]
     handleClick()
 })
 
