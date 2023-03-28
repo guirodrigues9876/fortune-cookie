@@ -7,9 +7,8 @@
 
 <p align="center">
  <a href="#-Worked-concepts">Worked Concepts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Project-Demonstration">Project Demonstration</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-License">License</a>
 </p>
 
@@ -27,11 +26,6 @@
 - Callback functions
 - Arrays
 
-
-## ✔ Features
-
-- 
-
 ## 🚀 Technologies
 
 - HTML e CSS
@@ -39,7 +33,7 @@
 - Git e Github
 - Figma
 
-## 💻 Project
+## 💻 Project Demonstration
 
 <p align="center">
   <img src="img/demo.gif" alt="animated" />
